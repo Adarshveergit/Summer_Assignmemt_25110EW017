@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std; 
 void findDuplicate(int arr[],int n){
     cout<<"Duplicate array is "<<" ";
     for(int i=0; i<n; i++){

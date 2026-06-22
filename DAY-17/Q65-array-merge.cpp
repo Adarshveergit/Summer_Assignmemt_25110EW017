@@ -28,9 +28,9 @@ int main(){
 
     } 
     mergeArray(array1,num1,array2,num2,array3);
-    cout<<"Merged arrayb :";
+    cout<<"Merged array:";
     for(int i=0; i<num1+num2; i++){
-        cout<<array3[i];
+        cout<<array3[i]<<" ";
     }
     return 0;
 
